@@ -1,0 +1,7 @@
+api:
+  alphavantage:
+training_coef: 0.8
+step_size: 1
+batch_size: 256
+buffer_size: 10000
+epochs: 100
